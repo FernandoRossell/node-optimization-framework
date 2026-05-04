@@ -1,0 +1,27 @@
+
+# Data files (never tracked)
+*.csv
+*.xlsx
+*.parquet
+*.feather
+
+data/
+datasets/
+
+# Config & environment files
+*.toml
+*.config
+*.env
+*.yaml
+*.yml
+
+# Jupyter & Python artifacts
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
